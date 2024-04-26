@@ -1,0 +1,10 @@
+Debugging 
+
+1. Describing the problem
+2. Reproduce the bug
+3. Play Computer
+4. Fix red lines
+5. print is your friend
+6. use the debugger
+7. Take a break
+8. use copilot or chat gpt
